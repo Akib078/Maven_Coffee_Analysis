@@ -11,3 +11,5 @@ Which products are the bestselling in terms of quantity and revenue?<br>
 How do sales vary by product category and type?<br>
 
 <h3>Final Dashboard</h3>
+
+https://github.com/Akib078/Maven_Coffee_Analysis/blob/6458c08f8fd112483d864a931d8df2e660e621cd/Dashboard%20Image.png
