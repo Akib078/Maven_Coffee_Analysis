@@ -2,12 +2,12 @@
 
 <h3>Required Analysis:</h3>
 
-How do sales vary by day of the week and hour of the day?
-Are there any peak times for sales activity?
-What is the total sales revenue for each month?
-How do sales vary across different store locations?
-what is the average price/order per person
-Which products are the bestselling in terms of quantity and revenue?
-How do sales vary by product category and type?
+How do sales vary by day of the week and hour of the day? <br>
+Are there any peak times for sales activity?<br>
+What is the total sales revenue for each month?<br>
+How do sales vary across different store locations?<br>
+what is the average price/order per person?<br>
+Which products are the bestselling in terms of quantity and revenue?<br>
+How do sales vary by product category and type?<br>
 
 <h3>Final Dashboard</h3>
