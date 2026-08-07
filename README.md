@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Sales Analysis & Interactive Dashboard
+# ☕ Maven - Coffee Shop Sales Analysis & Interactive Dashboard
 
 ## 📊 Project Overview
 
@@ -83,7 +83,7 @@ Each transaction contains information related to sales, products, customers, sto
 
 ---
 
-# 🔄 Project Workflow
+## 🔄 Project Workflow
 
 The project followed a structured data analytics workflow:
 
