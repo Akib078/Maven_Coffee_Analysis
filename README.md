@@ -1,5 +1,19 @@
 # ☕ Maven - Coffee Shop Sales Analysis & Interactive Dashboard
 
+> A data analytics project showcasing my work as a **Data Analyst and Business Analyst Support** on 150,000+ coffee shop sales records, using Excel, Power Query, Pivot Tables, and interactive dashboards to analyze sales trends, revenue, product performance, and customer behavior.
+
+![Role](https://img.shields.io/badge/Role-Data%20Analyst-0078D4)
+![Role](https://img.shields.io/badge/Role-Business%20Analyst-2EA043)
+![Tool](https://img.shields.io/badge/Tool-Excel-217346)
+![Tool](https://img.shields.io/badge/Tool-Power%20Query-742774)
+![Tool](https://img.shields.io/badge/Tool-Pivot%20Tables-4472C4)
+![Analysis](https://img.shields.io/badge/Analysis-Sales%20Analysis-orange)
+![Analysis](https://img.shields.io/badge/Analysis-Revenue%20Analysis-blue)
+![Analysis](https://img.shields.io/badge/Analysis-Product%20Performance-green)
+![Analysis](https://img.shields.io/badge/Analysis-Customer%20Trends-purple)
+
+---
+
 ## 📊 Project Overview
 
 This project focuses on analyzing **150,000+ coffee shop sales transactions** using **Microsoft Excel, Power Query, Pivot Tables, advanced Excel functions, and data visualization techniques**.
